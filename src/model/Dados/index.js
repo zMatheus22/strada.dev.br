@@ -4,6 +4,11 @@ export function Dados(props) {
       <img width="120px" src={props.imgPerfil} />
       <h1>{props.nome}</h1>
       <p>{props.idade} Anos</p>
+      <br />
+      <p>
+        Faculdade:
+        <strong> {props.faculdade}</strong>
+      </p>
     </>
   );
 }
