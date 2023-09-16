@@ -6,6 +6,8 @@
 
 body {
   font-family: "Merriweather", serif;
+  background-color: #253140;
+  color: #f2f2f2;
   max-width: 600px;
   margin: 10% auto;
   text-align: center;
@@ -14,12 +16,9 @@ body {
 ul {
   list-style: none;
 }
-li {
-  border-radius: 10%;
-}
 
 a {
-  color: black;
+  color: #f2f2f2;
   text-decoration: none;
   display: flex;
   justify-content: center;
