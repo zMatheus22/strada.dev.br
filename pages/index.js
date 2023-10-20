@@ -1,16 +1,18 @@
 import Head from "next/head";
-import { Rodape } from "../src/Rodape";
-import { Corpo } from "../src/Corpo";
+import { Header } from "../src/body/Header";
+import { Main } from "../src/body/Main";
+import { Footer } from "../src/body/footer";
 
 function Home() {
   return (
     <>
       <Head>
         <title>Matheus Vinicyus Strada</title>
-        <link rel="stylesheet" href="styles.css"></link>
       </Head>
-      <Corpo />
-      <Rodape nome="Matheus Vinicyus Strada" />
+
+      <Header />
+      <Main />
+      <Footer />
     </>
   );
 }
