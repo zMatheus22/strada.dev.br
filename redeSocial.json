@@ -1,0 +1,26 @@
+[
+  {
+    "nameSocial": "Github",
+    "icon": "bi-github",
+    "link": "https://github.com/zMatheus22",
+    "user": "/zMatheus22"
+  },
+  {
+    "nameSocial": "LinkedIn",
+    "icon": "bi-linkedin",
+    "link": "https://www.linkedin.com/in/matheus-vinicyus-strada",
+    "user": "Matheus Vinicyus Strada"
+  },
+  {
+    "nameSocial": "YouTube",
+    "icon": "bi-youtube",
+    "link": "https://www.youtube.com/@matheusvinicyusstrada",
+    "user": "@matheusvinicyusstrada"
+  },
+  {
+    "nameSocial": "Steam",
+    "icon": "bi-steam",
+    "link": "https://steamcommunity.com/id/MatheusStrada/",
+    "user": "zMatheus22"
+  }
+]
