@@ -1,8 +1,0 @@
-@media screen and (min-width: 768px) and (max-width: 992px) {
-  main .projeto_conteudo {
-    grid-template-columns: 1fr 1fr 1fr;
-    gap: 32px;
-
-    margin-top: 16px;
-  }
-}
